@@ -1,0 +1,19 @@
+indicator:
+    indicator_name
+    indicator_code
+    topic
+    unit
+	
+
+country:
+    country_name
+    country_code
+    short_name
+    region
+    income_group
+    currency_unit
+
+fact:
+    year
+    value
+	
